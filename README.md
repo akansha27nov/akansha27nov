@@ -1,9 +1,10 @@
 # Hi, I'm Akansha 👋
 
 **Engineering & Delivery Leader (14+ years) | Building AI Systems with RAG, LangChain & Agentic Workflows — RAG, LangChain, agentic workflows**
+
 Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI 🇮🇳 based in Berlin, Germany
 
-14+ years leading technical delivery and engineering teams in production environments across Berlin's tech sector (Babbel, TQG, Next Big Thing AG) — not shown here, as that work is proprietary. This GitHub reflects my current hands-on AI upskilling: building real, working systems that apply agentic AI, RAG, and evaluation frameworks to the kind of delivery and risk problems I've spent my career solving.
+14+ years leading technical delivery and engineering teams in production environments across Berlin's tech sector (Babbel, TQG, Next Big Thing AG) — not shown here, as that work is proprietary. Building real, working systems that apply agentic AI, RAG, and evaluation frameworks to the kind of delivery and risk problems I've spent my career solving.
 
 ---
 
