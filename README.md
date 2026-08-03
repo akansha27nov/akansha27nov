@@ -39,12 +39,14 @@ Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI �
 ## 🛠️ Stack
 
 **AI & LLM Engineering:** Python · RAG · LangChain · LangGraph · MCP (Model Context Protocol) · Reranking & Relevance Scoring · Prompt Engineering · Whisper STT · n8n
+
 **AI Governance:** Trustworthy AI Evaluation · EU AI Act Awareness
+
 **Delivery & Programme Management:** Agile · Scrum · Kanban · Waterfall · OKR Planning · Risk & Dependency Management · Stakeholder Alignment 
 
 ---
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/akansha-verma)
+- 💼 [LinkedIn](https://www.linkedin.com/in/akansha-verma-056588125/)
 - 📧 akansha04nov@gmail.com
