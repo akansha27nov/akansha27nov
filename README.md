@@ -1,6 +1,6 @@
 # Hi, I'm Akansha 👋
 
-**Engineering & Delivery Leader (14+ years) | Building AI Systems with RAG, LangChain & Agentic Workflows — RAG, LangChain, agentic workflows**
+**Engineering & Delivery Leader (14+ Years) | Applied AI • Agentic Systems • RAG • LangGraph**
 
 Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI 🇮🇳 based in Berlin, Germany
 
@@ -10,7 +10,7 @@ Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI �
 
 ## 🎯 Flagship Project
 
-**[Delivery Risk Assistant](https://github.com/akansha27nov/delivery-risk-assistant)** — agent-based assistant that ingests project artefacts (sprint reports, tickets, meeting notes) and surfaces grounded, cited delivery risks, with every flagged risk traceable back to a source document. Built to solve a problem I've lived for 14 years: surfacing risks and blockers before they become escalations.
+**[Delivery Risk Assistant](https://github.com/akansha27nov/delivery-risk-assistant)** — agent-based assistant that ingests project artefacts (sprint reports, tickets, meeting notes) and surfaces grounded, cited delivery risks, with every flagged risk traceable back to a source document.
 
 ---
 
