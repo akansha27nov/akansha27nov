@@ -1,15 +1,16 @@
 # Hi, I'm Akansha 👋
 
-**Engineering & Delivery Leader (14+ Years) | Applied AI • Agentic Systems • RAG • LangGraph**
+**AI & Digital Transformation Leader | 14+ Years Enterprise Delivery → Applied AI Strategy**
 
-Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI 🇮🇳 based in Berlin, Germany
+🇮🇳 based in Berlin, Germany • Open to Digital Transformation / AI Transformation • Applied AI • EU AI Act / Trustworthy AI
 
-14+ years leading technical delivery and engineering teams in production environments across Berlin's tech sector (Babbel, TQG, Next Big Thing AG) — not shown here, as that work is proprietary. Building real, working systems that apply agentic AI, RAG, and evaluation frameworks to the kind of delivery and risk problems I've spent my career solving.
+14+ years leading technical delivery and engineering teams in production environments across Berlin's tech sector (Babbel, TQG, Next Big Thing AG) — not shown here, as that work is proprietary. Over the last 6 months, I've gone deep on applied AI, building agentic systems, RAG pipelines, and evaluation frameworks from the ground up so I can lead AI transformation from a position of real technical fluency, not just strategic slideware.
 
 ---
 
-## 🎯 Flagship Project
+## 🎯 Projects
 
+**[Supra AI](https://github.com/akansha27nov/supra-ai)** — AI consulting capstone: extraction + auditable rule engine to flag non-compliant supplier certificates, backed by a full business case (research, ROI, 8-week rollout plan), validated at 12/12 against ground truth
 **[Delivery Risk Assistant](https://github.com/akansha27nov/delivery-risk-assistant)** — agent-based assistant that ingests project artefacts (sprint reports, tickets, meeting notes) and surfaces grounded, cited delivery risks, with every flagged risk traceable back to a source document.
 
 ---
@@ -23,30 +24,18 @@ Delivery & Programme Leadership • Applied AI • EU AI Act / Trustworthy AI �
 ## 💬 LLM & RAG Applications
 
 - **[End-to-End RAG Pipeline](https://github.com/akansha27nov/RAG-with-the-training-wheels-off)** — indexes a set of documents, retrieves the relevant passages for a user's question, and generates an answer with OpenAI, built from scratch without a framework.
-- **[Document Chunking for RAG](https://github.com/akansha27nov/Slice-docs-the-way-Google-wishes-you-would)** — splits documents using several different chunking strategies and measures how each one changes retrieval accuracy.
 - **[Grounded Q&A with Reranking](https://github.com/akansha27nov/first-match-is-not-right-match)** — retrieves an initial set of matches for a query, reranks them for relevance, and compares the reranked results against the unranked baseline.
-- **[Multi-Provider LLM Fallback System](https://github.com/akansha27nov/Two-brains-zero-single-point-of-failure)** — routes a request to a primary LLM provider and automatically switches to a backup provider if the first one fails.
+- **[Multi-Provider News Summarizer](https://github.com/akansha27nov/Two-brains-zero-single-point-of-failure)** — summarizes and sentiment-tags news articles across OpenAI + Cohere with fallback logic and cost tracking
 - **[AI Real Estate Ad Generator](https://github.com/akansha27nov/Immo-Ads-generator)** — takes property details as input and outputs ready-to-publish real estate ad copy.
-- **[Whisper vs Google STT Benchmark](https://github.com/akansha27nov/Compare-Whisper-vs-Google-STT)** — transcribes the same audio samples with both Whisper and Google STT and compares the output.
 
 ## 📊 ML & Data Foundations
 
-- **[ML Model Training & Evaluation](https://github.com/akansha27nov/sklearn-Model-Training-Evaluation)** — trains and compares several classical ML models on a dataset, evaluating them against standard performance metrics.
+- **[ML Model Training & Evaluation](https://github.com/akansha27nov/sklearn-Model-Training-Evaluation)** — sklearn - trains and compares several classical ML models on a dataset, evaluating them against standard performance metrics.
 - **[Data Wrangling & JSON Handling](https://github.com/akansha27nov/Data-Manipulation-JSON-Handling)** — cleans and restructures raw JSON data into a usable format for analysis.
-
 ---
 
 ## 🛠️ Stack
 
-**AI & LLM Engineering:** Python · RAG · LangChain · LangGraph · MCP (Model Context Protocol) · Reranking & Relevance Scoring · Prompt Engineering · Whisper STT · n8n
-
-**AI Governance:** Trustworthy AI Evaluation · EU AI Act Awareness
-
-**Delivery & Programme Management:** Agile · Scrum · Kanban · Waterfall · OKR Planning · Risk & Dependency Management · Stakeholder Alignment 
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/akansha-verma-056588125/)
-- 📧 akansha04nov@gmail.com
+**Stack:** Python · RAG · LangChain/LangGraph · MCP · RAG · OpenAI · Anthropic · n8n
+**Governance:** EU AI Act Awareness · Trustworthy AI Evaluation
+**Tooling:** Codex · Claude Code 
