@@ -11,6 +11,7 @@
 ## 🎯 Projects
 
 **[Supra AI](https://github.com/akansha27nov/supra-ai)** — AI consulting capstone: extraction + auditable rule engine to flag non-compliant supplier certificates, backed by a full business case (research, ROI, 8-week rollout plan), validated at 12/12 against ground truth
+
 **[Delivery Risk Assistant](https://github.com/akansha27nov/delivery-risk-assistant)** — agent-based assistant that ingests project artefacts (sprint reports, tickets, meeting notes) and surfaces grounded, cited delivery risks, with every flagged risk traceable back to a source document.
 
 ---
